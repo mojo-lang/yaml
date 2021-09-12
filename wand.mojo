@@ -5,6 +5,7 @@ package mojo.yaml {
     authors: [{
         author: 'Frankee'
         email: 'frankee.zhou@gmail.com'
+        organization: 'mojolang.org'
     }]
     dependencies: {
         'mojo.core': {path: '../core', version: '^0.1'}
