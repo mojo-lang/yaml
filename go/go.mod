@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/json-iterator/go v1.1.12
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.0
 )
 
 require (
